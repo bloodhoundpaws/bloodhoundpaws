@@ -5,6 +5,8 @@ idk how to make this look really cool but wtv
 
 <img align="left"> <img src="https://i.postimg.cc/g0HXgXpX/Tumblr-l-172872091254051.gif" width="40%">
 </img>
+<p align="right"> my name is hal! im very socially anxious so please keep that in mind</p>
+
 ![](https://komarev.com/ghpvc/?username=finn1sh&color=lightgrey&style=plastic)
 <!--
 **bloodhoundpaws/bloodhoundpaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
