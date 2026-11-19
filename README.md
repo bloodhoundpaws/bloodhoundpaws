@@ -3,7 +3,7 @@
 hai... my name is hal !! 
 idk how to make this look really cool but wtv
 
-<img align="left"> <img src="https://i.postimg.cc/g0HXgXpX/Tumblr-l-172872091254051.gif" width="300">
+<img align="left"> <img src="https://i.postimg.cc/g0HXgXpX/Tumblr-l-172872091254051.gif" width="50%">
 </img>
 ![](https://komarev.com/ghpvc/?username=finn1sh&color=lightgrey&style=plastic)
 <!--
