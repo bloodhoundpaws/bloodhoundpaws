@@ -1,7 +1,7 @@
 ## HAL / CALEB
 ![m](https://i.postimg.cc/RhY8HZbh/Tumblr-l-248623376123487.png) 
-hai... my name is hal uhm. idk how to make this look cool 
-
+hai... my name is hal !! 
+idk how to make this look really cool but wtv
 
 ![](https://komarev.com/ghpvc/?username=finn1sh&color=lightgrey&style=plastic)
 <!--
