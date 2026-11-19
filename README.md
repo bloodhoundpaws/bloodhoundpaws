@@ -3,7 +3,7 @@
 hai... my name is hal !! 
 idk how to make this look really cool but wtv
 
-![s](https://i.postimg.cc/W3HS9fmQ/Tumblr-l-172872091254051.gif)
+<p align="left">![s](https://i.postimg.cc/W3HS9fmQ/Tumblr-l-172872091254051.gif) </p>
 ![](https://komarev.com/ghpvc/?username=finn1sh&color=lightgrey&style=plastic)
 <!--
 **bloodhoundpaws/bloodhoundpaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
