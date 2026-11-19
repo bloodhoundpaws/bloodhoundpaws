@@ -2,7 +2,7 @@
 ![m](https://i.postimg.cc/RhY8HZbh/Tumblr-l-248623376123487.png) 
 
 <img align="left"> <img src="https://i.postimg.cc/g0HXgXpX/Tumblr-l-172872091254051.gif" width="40%">
-</img> <p align="right"> my name is hal! im very socially anxious so please keep that in mind</p>
+</img> <p align="center"> my name is hal! im very socially anxious so please keep that in mind</p>
 
 ![](https://komarev.com/ghpvc/?username=finn1sh&color=lightgrey&style=plastic)
 <!--
