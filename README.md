@@ -1,5 +1,8 @@
 ## HAL / CALEB
+hai... my name is hal uhm. idk how to make this look cool 
 
+
+![](https://komarev.com/ghpvc/?username=finn1sh&color=lightgrey&style=plastic)
 <!--
 **bloodhoundpaws/bloodhoundpaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
